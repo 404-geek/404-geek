@@ -15,8 +15,6 @@
 - **Cloud & DevOps:** AWS, GCP, Kubernetes, Docker, Terraform  
 - **Security & Compliance:** OAuth 2.0, OpenID Connect, KYC/KYB, Financial Regulations  
 
-## 📈 GitHub Stats  
-![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranaydas&show_icons=true&theme=radical)  
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PranayDas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pranaydas95/)  
