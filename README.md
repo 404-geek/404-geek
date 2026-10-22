@@ -2,11 +2,11 @@
 
 ### 🚀 Software Engineer | Distributed Systems | GSoC '24 | Purdue MS CS
 
-- 🔹 Software Developer at **Eli Lilly**, building adverse-event processing and clinical scheduling services with Python, FastAPI, and Temporal.
-- 🔹 Founding engineer at **Instoried**, where I built the backend platform for a SaaS product that scaled to 100K+ users and led a team of 5–6 engineers.
-- 🔹 Built KYC/AML and compliance platforms for **Natixis Investments** and **Novo Nordisk** as a freelance developer.
-- 🔹 Google Summer of Code 2024 with AboutCode: published [scorecode](https://pypi.org/project/scorecode/), bringing OpenSSF Scorecard metrics into ScanCode.io and CycloneDX SBOMs.
-- 🔹 Experienced in distributed systems, event-driven pipelines, concurrency control, caching, and data synchronization.
+- Software Developer at **Eli Lilly**, building adverse-event processing and clinical scheduling services with Python, FastAPI, and Temporal.
+- Founding engineer at **Instoried**, where I built the backend platform for a SaaS product that scaled to 100K+ users and led a team of 5–6 engineers.
+- Built KYC/AML and compliance platforms for **Natixis Investments** and **Novo Nordisk** as a freelance developer.
+- Google Summer of Code 2024 with AboutCode: published [scorecode](https://pypi.org/project/scorecode/), bringing OpenSSF Scorecard metrics into ScanCode.io and CycloneDX SBOMs.
+- Experienced in distributed systems, event-driven pipelines, concurrency control, caching, and data synchronization.
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, C/C++, Java
